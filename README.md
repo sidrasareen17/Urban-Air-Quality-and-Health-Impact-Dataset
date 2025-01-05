@@ -4,7 +4,7 @@
 
 This repository contains the implementation of a Linear Regression model aimed at predicting health risk scores based on environmental factors. The goal is to assess the relationship between weather data and health risks by analyzing various input features such as temperature, humidity, wind speed, and more.
 
-         ## Project Description
+
 
 Project Description
 
@@ -99,7 +99,9 @@ Evaluating the model using metrics like Mean Squared Error (MSE), R², etc.
 
 
 Results
+
  @Training side
+ 
  The MSE Output Is: 0.009790153792185617
 ********************
 The RMSE Output Is: 0.09894520600911201
@@ -110,6 +112,7 @@ The R_SQUARED Output Is: 0.9786536722994215
 ********************
 
 @Testing side
+
 The MSE Output Is: 0.013337952633846895
 ********************
 The RMSE Output Is: 0.11549005426376288
